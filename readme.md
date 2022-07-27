@@ -27,7 +27,7 @@ You can contact me to get it
 - Kemudian klik tombol go
 - Kemudian akses alamat berikut pada browser ```"http://127.0.0.1/pertemuan 7"``` (tanpa tanda " )
 - Selamat aplikasi/website sudah berhasil di install
-- Untuk mengakses panel admin tambahkan /admin (http://127.0.0.1/restoran/admin)
+- Untuk mengakses panel admin tambahkan /admin ```"http://127.0.0.1/restoran/admin"```
 - Silahkan login dengan email dan password yang telah disediakan pada database (db_restoran pada table tbluser)
 
 ## Lisensi
